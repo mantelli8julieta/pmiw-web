@@ -1,0 +1,19 @@
+@font-face {
+    font-family: Lato;
+    src: url(imagenes/fonts/Lato-Light.ttf);
+
+}
+
+h1, h2, h3, h6{
+font-family: 'Courier New', Courier, monospace;
+
+}
+p {
+    font-family: 'Lato';
+}
+
+.banner{
+display: flex;
+flex-direction: row;
+
+}
